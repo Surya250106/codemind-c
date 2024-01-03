@@ -11,7 +11,7 @@ int main()
         {
             if(i>j)
             printf("  ");
-            else if(i==1 ||  i==j || j==n)
+            else if(i==1 ||  i==j ||  j==n)
             {
                 printf("%d ",k);
                 k--;
